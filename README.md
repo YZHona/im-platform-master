@@ -16,7 +16,7 @@
 + 后端：Hutool、MyBatis-Plus、shiro、sharding-jdbc、接口版本控制等
 + 前端：uniapp(Vue3)
 + 体验：[https://im.q3z3.com/](https://im.q3z3.com/)
-+ [![加入QQ群](https://img.shields.io/badge/加入QQ群-535099683-blue.svg)](https://jq.qq.com/?_wv=1027&k=PQMnFugm)（535099683）
+
 
 #### 三、演示效果
 <img src="https://img.alicdn.com/imgextra/i2/87413133/O1CN01mD2wwN1Z0xctYYdAA_!!87413133.jpg" width="200">
